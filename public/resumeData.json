@@ -1,183 +1,113 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Widya Ageng",
+    "description":"Full Time engineer, Part time trader and freeloader xD...",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I like to do both hardware and software stuff, been 8 years+ doing it. Now, I am in progress to leverage the engineering knowledge that I have to build decent asset portfolio. I daytrade at night (except 3rd Friday of the month), checking swingtrade opportunity during weekend and occassionaly do forex spot when ta looking good...I also play FIFA when I have time",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "ageng.setyatutuko@gmail.com",
+    "phone": "9299 7783",
+    "github":"https://github.com/widyaageng",
+    "project":"https://github.com/widyaageng?tab=repositories",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"3 West Coast Drive",
+      "city":"Clementi",
+      "state":"Singapore",
+      "zip": "128021"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://localhost:3000/#home",
+    "resumedownload":"http://localhost:3000/#home",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/agengtutuko",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/agengsetya/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/widyaagenge",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am using following stack, might get rusty sometimes, but hey every projects are using different resources and I am not a bot with plugins.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"National University of Singapore",
+        "degree":"MSc, Control Engineering & Artificial Intelligence",
+        "graduated":"December 2018",
+        "description":"Too many projects until I didnt know that I was studying in NUS. Reading intelligent control modules, deep learning (CNN/RNN/Vanilla) and other bayesian/non-bayesian AI (pattern recognition, SVM, PCA, LDA etc)."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Nanyang Technological University",
+        "degree":"B.Eng, Eletrical & Electronic Engineering",
+        "graduated":"July 2014",
+        "description":"Specialized in control engineering and higher-level analog system/circuit. Anyway, it's ulu place, the furthest I went was Jurong East to find good non-campus food"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Halliburton",
+        "title":"Senior Engineer",
+        "years":"October 2020 - Present",
+        "description":"Developing programs using Python, MSSQLDatabase, Labview. Trying to talk to hardwares and push the datastreams to user-level app/programs to monitor"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Halliburton",
+        "title":"Engineer",
+        "years":"August 2018 - October 2020",
+        "description":"Hardware intensive, was using Matlab/Simulink and python to analyze it.. fun but tiring."
+      },
+      {
+        "company":"Halliburton",
+        "title":"Associate Engineer",
+        "years":"July 2014 - August 2018",
+        "description":"Full hands-on hardware, most of the maths in uni were used heavily in Analog + working with C/C++ most of the time to troubleshoot/debug microcontroller things/signal processor"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"Python-> Django(web), iPython+Jupyter (drafting), OOP",
+        "level":"70%"
       },
       {
-        "name":"VueJs",
+        "name":"Javacript -> Mostly for Node and unittests (Chai/Jest)",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJS -> Thanks Facebook",
+        "level":"65%"
+      },
+      {
+        "name":"Other FE tools -> HTML5;CSS/TailwindCSS, boring but got to do it",
+        "level":"70%"
+      },
+      {
+        "name":"Database->SQL:MSSQL,PostgreSQL; NoSQL:MongoDB",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"DS Stack (Pandas, Pytorch, OpenCV)",
+        "level":"60%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Terminal: wincmd (winbased), zsh (linux/macos)",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Sweetlands Desserts",
+        "category":"Making one for my sister",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
         "url":"https://www.canadianwanderlust.com"
       }
     ]

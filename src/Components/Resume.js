@@ -28,9 +28,9 @@ class Resume extends Component {
       );
     });
 
-    const work = this.props.data.work.map(function (work) {
+    const work = this.props.data.work.map(function (work, index) {
       return (
-        <div key={work.company}>
+        <div key={index}>
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
@@ -42,6 +42,7 @@ class Resume extends Component {
     });
 
     const skills = this.props.data.skills.map((skills) => {
+      console.log(skills.name)
       const backgroundColor = this.getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
       const width = skills.level;
