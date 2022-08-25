@@ -89,7 +89,7 @@
         "level":"70%"
       },
       {
-        "name":"Database->SQL:MSSQL,PostgreSQL; NoSQL:MongoDB",
+        "name":"Database -> SQL:MSSQL,PostgreSQL; NoSQL:MongoDB",
         "level":"55%"
       },
       {
@@ -97,7 +97,7 @@
         "level":"60%"
       },
       {
-        "name":"Terminal: wincmd (winbased), zsh (linux/macos)",
+        "name":"Terminal -> wincmd (winbased), zsh (linux/macos)",
         "level":"60%"
       }
     ]
