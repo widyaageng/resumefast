@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Widya Ageng",
-    "description":"Full Time engineer, Part time trader and freeloader xD...",
+    "description":"Full ime engineer, part time trader",
     "image":"profilepic.jpg",
-    "bio":"I like to do both hardware and software stuff, been 8 years+ doing it. Now, I am in progress to leverage the engineering knowledge that I have to build decent asset portfolio. I daytrade at night (except 3rd Friday of the month), checking swingtrade opportunity during weekend and occassionaly do forex spot when ta looking good...I also play FIFA when I have time",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I like to do both software and financial engineering stuff, been 8 years+ doing it. Now, I am in progress to leverage the engineering knowledge that I have to build decent asset portfolio. I daytrade at night (except 3rd Friday of the month), checking swingtrade opportunity during weekend and occassionaly do forex spot when technical analysis is looking great.",
+    "contactmessage":"I am contactable through this form as well, feel free to reach out.",
     "email": "ageng.setyatutuko@gmail.com",
     "phone": "9299 7783",
     "github":"https://github.com/widyaageng",
@@ -42,13 +42,13 @@
         "school":"National University of Singapore",
         "degree":"MSc, Control Engineering & Artificial Intelligence",
         "graduated":"December 2018",
-        "description":"Too many projects until I didnt know that I was studying in NUS. Reading intelligent control modules, deep learning (CNN/RNN/Vanilla) and other bayesian/non-bayesian AI (pattern recognition, SVM, PCA, LDA etc)."
+        "description":"Reading intelligent control modules, deep learning (CNN/RNN/Vanilla) and other bayesian/non-bayesian AI (pattern recognition like Beta-bernoulli fitting, SVM, PCA, LDA etc). When more silicon gets stacked, the AI technology will be marching even further. We couldn't implement vanilla DL with just 2-3 layers and 5-10 neuron/perceptron in our laptop 10 years ago, now you can even do it in cloud from your phone with note type programming (jupyter notebook). GPT/Transformers now can have a good chat with you, YOLO/Deep RCNN can see you and recognize what you're doing, adaptive motor control with advanced sensors able to move robotic limbs as dexterous as human joints. We probably are merging ourselves with future society that we create."
       },
       {
         "school":"Nanyang Technological University",
         "degree":"B.Eng, Eletrical & Electronic Engineering",
         "graduated":"July 2014",
-        "description":"Specialized in control engineering and higher-level analog system/circuit. Anyway, it's ulu place, the furthest I went was Jurong East to find good non-campus food"
+        "description":"Specialized in control engineering and higher-level analog system/circuit. Never realized that practical device implementation of math equation is more complicated than writing it on paper. The beauty of fourier transform, DFFT, linear algebra and calculus coded and implemented on real life device made me to appreciate that there's hundreds, if not thousands, of math and physics equations just behind your day-to-day devices like phone, laptop, modem, car panel. We've come quite in technology advancement as human."
       }
     ],
     "work":[
@@ -56,19 +56,19 @@
         "company":"Halliburton",
         "title":"Senior Engineer",
         "years":"October 2020 - Present",
-        "description":"Developing programs using Python, MSSQLDatabase, Labview. Trying to talk to hardwares and push the datastreams to user-level app/programs to monitor"
+        "description":"Developing programs using Python, MSSQLDatabase, Labview. Trying to talk to data sources (sensors) and push the datastreams to user-level app/programs to monitor and to database for further analysis on source performance and defects. Working with technology teams in USA and continuous feedback from operation teams accross the worlds to make better system."
       },
       {
         "company":"Halliburton",
         "title":"Engineer",
         "years":"August 2018 - October 2020",
-        "description":"Hardware intensive, was using Matlab/Simulink and python to analyze it.. fun but tiring."
+        "description":"Using Matlab/Simulink and python to analyze product defect is a part that I enjoyed the most, it involves heavy math calculation and recalls all the concepts that I've studied in schools. Working with production teams and technology to suggest a solution that will prevent bad things to happen to the products. Without the constant usage of math and physics, I probably would've partially believed that studying in school was a waste of time."
       },
       {
         "company":"Halliburton",
         "title":"Associate Engineer",
         "years":"July 2014 - August 2018",
-        "description":"Full hands-on hardware, most of the maths in uni were used heavily in Analog + working with C/C++ most of the time to troubleshoot/debug microcontroller things/signal processor"
+        "description":"Full hands-on, working with hardware-based languanges like C/C++ most of the time to troubleshoot/debug microcontroller things/signal processor. Modeling problem statement in simulink before closing out the issues with solution, always have a tendency to align theory and real life before taking decision, especially when I was a fresh graduate who tend to believe more on paper/theory than the actual/real life models."
       }
     ],
     "skills":[
@@ -81,7 +81,7 @@
         "level":"65%"
       },
       {
-        "name":"ReactJS -> Thanks Facebook",
+        "name":"ReactJS -> Fan of react-redux and functional components (no class PLS)",
         "level":"65%"
       },
       {
