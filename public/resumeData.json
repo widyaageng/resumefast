@@ -42,13 +42,13 @@
         "school":"National University of Singapore",
         "degree":"MSc, Control Engineering & Artificial Intelligence",
         "graduated":"December 2018",
-        "description":"Reading intelligent control modules, deep learning (CNN/RNN/Vanilla) and other bayesian/non-bayesian AI (pattern recognition like Beta-bernoulli fitting, SVM, PCA, LDA etc). When more silicon gets stacked, the AI technology will be marching even further. We couldn't implement vanilla DL with just 2-3 layers and 5-10 neuron/perceptron in our laptop 10 years ago, now you can even do it in cloud from your phone with note type programming (jupyter notebook). GPT/Transformers now can have a good chat with you, YOLO/Deep RCNN can see you and recognize what you're doing, adaptive motor control with advanced sensors able to move robotic limbs as dexterous as human joints. We probably are merging ourselves with future society that we create."
+        "description":"Reading intelligent control modules, deep learning (CNN/RNN/Vanilla) and other bayesian/non-bayesian AI (pattern recognition like Beta-bernoulli fitting, SVM, PCA, LDA etc). When more silicon gets stacked, the AI technology will be marching even further. We couldn't implement vanilla DL with just 2-3 layers and 5-10 neuron/perceptron in our laptop 10 years ago, now you can even do it in cloud from your phone with note type programming (jupyter notebook). GPT/Transformers now can have a good chat with you, YOLO/Deep RCNN can see you and recognize what you're doing, adaptive motor control with advanced sensors is able to move robotic limbs as dexterous as human joints. We probably are merging ourselves with future society that we create."
       },
       {
         "school":"Nanyang Technological University",
         "degree":"B.Eng, Eletrical & Electronic Engineering",
         "graduated":"July 2014",
-        "description":"Specialized in control engineering and higher-level analog system/circuit. Never realized that practical device implementation of math equation is more complicated than writing it on paper. The beauty of fourier transform, DFFT, linear algebra and calculus coded and implemented on real life device made me to appreciate that there's hundreds, if not thousands, of math and physics equations just behind your day-to-day devices like phone, laptop, modem, car panel. We've come quite far in technology advancement as human."
+        "description":"Specialized in control engineering and higher-level analog system/circuit. Never realized that practical implementation of math equations on devices is more complicated than writing and solving them on paper. The beauty of fourier transform, DFFT, linear algebra and calculus coded and implemented (with headaches of course) on real life devices made me appreciate the fact that there's hundreds, if not thousands, of math and physics equations just behind your day-to-day devices like phone, laptop, modem, car panel. We've come quite far in technology advancement as human."
       }
     ],
     "work":[
