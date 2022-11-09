@@ -45,11 +45,11 @@ class Resume extends Component {
       console.log(skills.name)
       const backgroundColor = this.getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
-      const width = skills.level;
+      const width = skills.years;
 
       return (
         <li key={skills.name}>
-          <span style={{ width, backgroundColor }} className={className}></span>
+          <span style={{ width, backgroundColor }} className={className}>{skills.years} yrs</span>
           <em>{skills.name}</em>
         </li>
       );
