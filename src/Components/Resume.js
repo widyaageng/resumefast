@@ -45,7 +45,7 @@ class Resume extends Component {
       console.log(skills.name)
       const backgroundColor = this.getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
-      const width = skills.years;
+      const width = String(skill.years) + "%";
 
       return (
         <li key={skills.name}>
