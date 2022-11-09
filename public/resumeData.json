@@ -74,31 +74,31 @@
     "skills":[
       {
         "name":"Python-> Django(web), iPython+Jupyter (drafting), OOP",
-        "level":"70%"
+        "years":"6"
       },
       {
         "name":"Javacript -> Mostly for Node and unittests (Chai/Jest)",
-        "level":"65%"
+        "years":"5"
       },
       {
         "name":"ReactJS -> Fan of react-redux and functional components",
-        "level":"65%"
+        "years":"3"
       },
       {
         "name":"Other FE tools -> HTML5;CSS/TailwindCSS;Sass-SCSS",
-        "level":"70%"
+        "years":"5"
       },
       {
         "name":"Database -> SQL:MSSQL,PostgreSQL; NoSQL:MongoDB",
-        "level":"55%"
+        "years":"5"
       },
       {
         "name":"DS Stack -> (Pandas, Pytorch, pySQL)",
-        "level":"60%"
+        "years":"3"
       },
       {
         "name":"Terminal -> wincmd (winbased), zsh (linux/macos)",
-        "level":"60%"
+        "years":"6"
       }
     ]
   },
