@@ -2,13 +2,16 @@ import React, { Component } from "react";
 import Slide from "react-reveal";
 
 class Resume extends Component {
-  getRandomColor() {
-    let letters = "0123456789ABCDEF";
-    let color = "#";
-    for (let i = 0; i < 6; i++) {
-      color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
+  
+  const barColors = ['maroon', 'purple', 'green', 'navy', 'darkolivegreen', 'darkslategrey', 'indigo'];
+
+  getColor(i) {
+//     let letters = "0123456789ABCDEF";
+//     let color = "#";
+//     for (let i = 0; i < 6; i++) {
+//       color += letters[Math.floor(Math.random() * 16)];
+//     }
+    return barColors[i];
   }
 
   render() {
@@ -41,15 +44,16 @@ class Resume extends Component {
       );
     });
 
-    const skills = this.props.data.skills.map((skills) => {
+    const skills = this.props.data.skills.map((skills, idx) => {
       console.log(skills.name)
-      const backgroundColor = this.getRandomColor();
+      const backgroundColor = this.getColor(idx);
       const className = "bar-expand " + skills.name.toLowerCase();
       const width = String(skills.years*10) + "%";
+      const color = 'white';
 
       return (
         <li key={skills.name}>
-          <span style={{ width, backgroundColor }} className={className}>{skills.years} yrs</span>
+          <span style={{ width, backgroundColor, color }} className={className}>{skills.years} yrs</span>
           <em>{skills.name}</em>
         </li>
       );
