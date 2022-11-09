@@ -2,8 +2,6 @@ import React, { Component } from "react";
 import Slide from "react-reveal";
 
 class Resume extends Component {
-  
-  const barColors = ['maroon', 'purple', 'green', 'navy', 'darkolivegreen', 'darkslategrey', 'indigo'];
 
   getColor(i) {
 //     let letters = "0123456789ABCDEF";
@@ -11,6 +9,7 @@ class Resume extends Component {
 //     for (let i = 0; i < 6; i++) {
 //       color += letters[Math.floor(Math.random() * 16)];
 //     }
+    const barColors = ['maroon', 'purple', 'green', 'navy', 'darkolivegreen', 'darkslategrey', 'indigo'];
     return barColors[i];
   }
 
